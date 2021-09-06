@@ -1,6 +1,6 @@
 import React from 'react';
 import "./sidebar.css";
-import {LineStyle, Timeline, TrendingUp, PersonOutline, Store, EuroSymbol, BarChart, MailOutline, DynamicFeed, ChatBubbleOutline, WorkOutline, Report} from "@material-ui/icons";
+import {LineStyle, PersonOutline, Store} from "@material-ui/icons";
 import { Link } from 'react-router-dom';
 
 export default function Sidebar() {
