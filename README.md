@@ -30,8 +30,8 @@ As mentioned above for this particular project I have used
 1. [Material UI](https://material-ui.com/) for all the icons 
 2. [Rechart](https://recharts.org) for the charts
 
--For navigation 
-1. [React router dom](https://reactrouter.com/) 
+- For others  
+1. [React router dom](https://reactrouter.com/) for navigation between pages
 
 the completed installation is
 
