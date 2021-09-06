@@ -6,7 +6,7 @@ import User from "./pages/user/User";
 import NewUser from "./pages/newUser/NewUser";
 import ProductsList from "./pages/productsList/ProductsList";
 import Product from "./pages/product/Product";
-import "./app.css";
+import "./App.css";
 import {
   BrowserRouter as Router,
   Switch,
