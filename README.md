@@ -40,4 +40,4 @@ yarn add @material-ui/core react-router-dom recharts
 ```
 ## Preview
 
-You can find the preview of this webapp [here](dashboard-react-jn.netlify.app)
+You can find the preview of this webapp [here](https://dashboard-react-jn.netlify.app)
